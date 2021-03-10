@@ -1,19 +1,19 @@
 ### Hello friend 👋 Let's connect 🤝
 
 &nbsp;&nbsp;
-<a href="mailto:moizhus123@gmail.com">
+<a href="mailto:moizhus123@gmail.com" title="moizhus123@gmail.com">
     <img height="32px" src="https://raw.githubusercontent.com/abdulmoizhussain/abdulmoizhussain/main/gmail.png" />
 </a>
 &nbsp;&nbsp;
-<a href="https://www.hackerrank.com/abdulmoizhussain" target="__blank">
+<a href="https://www.hackerrank.com/abdulmoizhussain" target="__blank" title="HackerRank">
     <img height="32px" src="https://raw.githubusercontent.com/abdulmoizhussain/abdulmoizhussain/main/hackerrank.png" />
 </a>
 &nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/abdul-moiz-hussain/" target="__blank">
+<a href="https://www.linkedin.com/in/abdul-moiz-hussain/" target="__blank" title="LinkedIn">
     <img height="32px" src="https://raw.githubusercontent.com/abdulmoizhussain/abdulmoizhussain/main/linkedin.png" />
 </a>
 &nbsp;&nbsp;
-<a href="https://twitter.com/abdulmoizhus" target="__blank">
+<a href="https://twitter.com/abdulmoizhus" target="__blank" title="Twitter">
     <img height="32px" src="https://raw.githubusercontent.com/abdulmoizhussain/abdulmoizhussain/main/twitter.png" />
 </a>
 <!--
