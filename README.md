@@ -1,5 +1,4 @@
 ### Hello friend 👋 Let's connect 🤝
-<hr>
 
 <a href="https://www.linkedin.com/in/abdul-moiz-hussain/" target="__blank">
     <img height="32px" src="https://raw.githubusercontent.com/abdulmoizhussain/abdulmoizhussain/main/linkedin.png" />
