@@ -1,4 +1,4 @@
-### Hello friend 👋 Let's connect 🤝
+### Hello there 👋 Let's connect 💻
 
 &nbsp;&nbsp;
 <a href="mailto:moizhus123@gmail.com" title="moizhus123@gmail.com">
