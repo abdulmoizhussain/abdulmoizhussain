@@ -25,7 +25,7 @@
 
 [File Server - CLI Tool](https://github.com/abdulmoizhussain/file-server): A very simple file server, to serve static files on local network. Just download and launch the .exe file and it will start a file-server on port 99, with all the files in the directory in which you placed the EXE. You can define your own port too.
 
-[chrome-media-shortcuts - Google Chrome Extension](https://github.com/abdulmoizhussain/chrome-media-shortcuts): To be able to pause, forward & backward the media being played in google chrome with global hot-keys (even when google chrome is in minimized)
+[chrome-media-shortcuts - Google Chrome Extension](https://github.com/abdulmoizhussain/chrome-media-shortcuts): To be able to pause, forward & backward a Youtube video being played in any google chrome tab with global hot-keys (even when google chrome is minimized).
 
 [PhreshPlayer - Desktop App](https://github.com/abdulmoizhussain/PhreshPlayer): The media-player will skip unwanted/inappropriate scenes (manually defined in a .skip file) during a movie playback. So, everytime user won't have to stay attentive for a scene to come then forward/skip that scene manually.
 
