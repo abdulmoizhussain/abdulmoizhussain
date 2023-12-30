@@ -17,7 +17,7 @@
     <img width="32px"  src="https://raw.githubusercontent.com/abdulmoizhussain/abdulmoizhussain/main/socialicons/twitter.png" />
 </a>
 
-#### Or checkout any of my small projects which might help you in your daily life tasks.
+### Or checkout any of my small projects which might help you in your daily life tasks.
 
 [Prayer Timings - Android App](https://github.com/abdulmoizhussain/PrayerTimings): Get notified about every Prayer time of Karachi city. Turns phone on silent mode at user's defined times.
 
