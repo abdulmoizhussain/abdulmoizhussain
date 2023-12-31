@@ -13,6 +13,10 @@
     <img width="32px"  src="https://raw.githubusercontent.com/abdulmoizhussain/abdulmoizhussain/main/socialicons/linkedin.png" />
 </a>
 &nbsp;&nbsp;
+<a href="https://stackoverflow.com/users/8075004/abdulmoizhussain" target="__blank" title="Stack Overflow">
+    <img width="32px"  src="https://raw.githubusercontent.com/abdulmoizhussain/abdulmoizhussain/main/socialicons/stack_overflow_icon.svg" />
+</a>
+&nbsp;&nbsp;
 <a href="https://twitter.com/abdulmoizhus" target="__blank" title="Twitter">
     <img width="32px"  src="https://raw.githubusercontent.com/abdulmoizhussain/abdulmoizhussain/main/socialicons/twitter.png" />
 </a>
